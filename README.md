@@ -32,9 +32,9 @@ Welcome to **Jawwa**, an advanced and heavily optimized library that enhances Ja
 
 1. Clone this repository:
 
-
+```
 git clone https://github.com/thdoctor0/Jawwa.git
-
+```
 2. Navigate to the Jawwa directory:
 
 
@@ -50,11 +50,11 @@ mvn install
 
 4. Import Jawwa into your project:
 
-
+```
 
 import com.jawwa.JawwaEngine;
 
-
+```
 
 
 ## Getting Started
@@ -67,7 +67,7 @@ Jawwa is easy to get started with, but here's a basic overview of what you need 
 2. Initiate the Engine:
 
 
-
+```
 public class Main {
     public static void main(String[] args) throws IOException {
         // Initialize Jawwa Engine with config
@@ -75,7 +75,7 @@ public class Main {
     }
 }
 
-
+```
 ## How It Works
 
 Jawwa operates by simplifying complex tasks and offering an easy-to-understand syntax for Java, while also leveraging Python's heavy computation powers via seamless communication. The core engine (Jawwa) handles all the UI, rendering, and event management while Python takes care of the background calculations and AI tasks.
@@ -94,6 +94,8 @@ Here’s an example of using Jawwa to initialize the engine and start communicat
 Java Side (JawwaEngine.java)
 
 ...
+
+```
 
 import java.io.*;
 import java.net.*;
@@ -125,11 +127,15 @@ public class JawwaEngine {
     }
 }
 
+```
+
 ...
 
 Python Side (python_handler.py)
 
 ...
+
+```
 
 import socket
 
@@ -158,6 +164,8 @@ def perform_complex_computation():
 if __name__ == "__main__":
     start_python_server()
 
+
+```
 ...
 
 Contributing
