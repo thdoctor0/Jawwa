@@ -28,6 +28,7 @@ Welcome to **Jawwa**, an advanced and heavily optimized library that enhances Ja
 - [Example Code](#example-code)
 - [Contributing](#contributing)
 - [License](#license)
+- [Progresive Animations](#progresive-animations)
 
 ---
 
@@ -171,7 +172,15 @@ if __name__ == "__main__":
 ```
 ...
 
-Contributing
+### Progresive Animations
+
+We are excited to announce this new feature. This is going to be implemented by naming a new void "proganim()" After doing that you can code with a special implementation animations including Rotation Scale Color Shiftness and Advanced Palleting such as modifying an Android Logo into Moving when doing an action
+
+# Implementation Guide
+
+
+
+### Contributing
 
 We welcome contributions from the community! If you have an idea for an improvement or want to fix an issue, feel free to fork the repository and submit a pull request.
 
