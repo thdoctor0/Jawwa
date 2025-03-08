@@ -13,6 +13,8 @@ Welcome to **Jawwa**, an advanced and heavily optimized library that enhances Ja
 - **Easy-to-Use Syntax**: Simplified syntax, custom scripting, and powerful built-in features make Jawwa a perfect choice for developers who want both speed and elegance in their code.
 - **Dynamic App Fusion**: Create next-gen transitions with smooth, dynamic app fusion animations, blending the transitions between apps for a truly unique user experience.
 - **AI Integration**: Deep integration with AI-driven features to personalize user interfaces and optimize device performance. Automatic adaptation of UI based on usage patterns.
+- **Arduino Integration**: Feel free to develop for Arduino software interactables such as User Interfaces using System Monitor.
+- **Smooth Mathematics**: It uses very advanced mathematical engines that results into the math engines being very fast and intuitive.
 
 ---
 
@@ -199,5 +201,5 @@ If you have any questions feel free to reach me on github!
 
 # Thank you for using Jawwa!
 
-This `README.md` provides a clean and structured introduction to your project, including installation steps, usage examples, and explanations about its features. It should be a great starting point for your GitHub repository!
+This `README.md` provides a clean and structured introduction to your project, including installation steps, usage examples, and explanations about its features. It should be a great starting point for your GitHub repository. Remember to credit the creators of Jawwa or any other creators of the custom Jawwa version you are using.
 
