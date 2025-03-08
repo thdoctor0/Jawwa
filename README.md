@@ -9,9 +9,10 @@ Welcome to **Jawwa**, an advanced and heavily optimized library that enhances Ja
 
 - **Optimized Performance**: Jawwa focuses on high-speed rendering, smooth animations, and AI-assisted optimizations that enhance performance, especially for graphics-heavy applications.
 - **Advanced Rendering**: Powered by a custom rendering engine, Jawwa provides advanced capabilities like Path Tracing (from Cyberpunk 2077) and Dynamic Fusion to create realistic visuals on any device.
-- **Cross-Language Communication**: Integrate Java and Python seamlessly, with a highly efficient multi-threaded communication system (Class Talk), enabling real-time interactions between languages for heavy computations and data analysis.
+- **Cross-Language Communication**: Integrate Java and Python ans Arduino seamlessly, with a highly efficient multi-threaded communication system (Class Talk), enabling real-time interactions between languages for heavy computations and data analysis.
 - **Easy-to-Use Syntax**: Simplified syntax, custom scripting, and powerful built-in features make Jawwa a perfect choice for developers who want both speed and elegance in their code.
 - **Dynamic App Fusion**: Create next-gen transitions with smooth, dynamic app fusion animations, blending the transitions between apps for a truly unique user experience.
+- **Progresive Animations**: Here is the future [Click here for more informations](#progresive-animations)
 - **AI Integration**: Deep integration with AI-driven features to personalize user interfaces and optimize device performance. Automatic adaptation of UI based on usage patterns.
 - **Arduino Integration**: Feel free to develop for Arduino software interactables such as User Interfaces using System Monitor.
 - **Smooth Mathematics**: It uses very advanced mathematical engines that results into the math engines being very fast and intuitive.
