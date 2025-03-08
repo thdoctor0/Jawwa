@@ -1,4 +1,4 @@
-# Jawwa - A Revolutionary Java Library
+# Jawwa - A Revolutionary Java Framework
 
 **Creator**: Thdoctor  
 **GitHub**: [thdoctor0](https://github.com/thdoctor0)
